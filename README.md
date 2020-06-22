@@ -1,4 +1,62 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
+
+## linux
+
+[系统命令.md](linux\系统命令.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/billsteve/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
